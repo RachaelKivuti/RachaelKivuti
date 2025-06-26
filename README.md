@@ -1,6 +1,6 @@
 <p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=180&lines=👋Hi+there%2C+I'm+RachaelK;App+development+and+security+testing;Offensive+security%2C+Red+Teamer+in+training;Computer+Technology%2C+developer%2C+creative+tech+designer;Breaking+things+ethically+so+others+don’t+do+it+maliciously;Learning+by+doing%2C+evolving+and+securing+the+future;Catch+me+in+the+lab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=180&lines=👋Hi+there%2C+I'm+RachaelK;Offensive+security%2C+Red+Teamer+in+training;Computer+Technology%2C+developer%2C+creative+tech+designer;Breaking+things+ethically+so+others+don’t+do+it+maliciously;Learning+by+doing%2C+evolving+and+securing+the+future;Catch+me+in+the+lab" alt="Typing SVG" />
 
 </p>
 
