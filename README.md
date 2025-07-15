@@ -80,5 +80,5 @@
 
 ---
 
-*Feel free to browse my repositories, fork something cool or just drop a "hi"....I'm always up for cybersecurity conversations or collabs*
+*Feel free to browse my repositories, fork something cool or just drop a "hi".....I'm always up for cybersecurity conversations or collabs*
 
