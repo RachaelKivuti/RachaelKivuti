@@ -43,10 +43,10 @@
 </p>
 
 ---
-
+-->
 
 ### Github Stats 
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachaelKivuti&layout=compact&theme=tokyonight&langs_count=6&hide=css,html" width="48%" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=RachaelKivuti&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%" alt="GitHub Stats"/>
@@ -59,7 +59,7 @@
 </p>
 
 ---
--->
+
 ## Certifications
 
 ![eJPT](https://img.shields.io/badge/eJPT-%23000000.svg?style=flat-square&logo=eLearnSecurity&logoColor=white)
