@@ -43,7 +43,7 @@
 </p>
 
 ---
--->
+<!--
 
 ### Github Stats 
 
@@ -52,7 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RachaelKivuti&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%" alt="GitHub Stats"/>
 </p>
 
-<!--
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachaelKivuti&layout=compact&theme=tokyonight&langs_count=6&hide=css,html&v=2" width="48%" alt="Top Languages"/>
